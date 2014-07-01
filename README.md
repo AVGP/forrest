@@ -17,7 +17,7 @@ If you're hunting for some keywords: elastic scaling, rolling updates, zero down
 
 # Walkthrough
 
-Say we have two servers:
+Say we have three servers:
 
 name | private IP | packages
 --- | --- | ---
